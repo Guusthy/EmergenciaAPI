@@ -1,5 +1,8 @@
  EmergenciaAPI
 
+PITCH
+https://youtu.be/Qu5Ph4sw3f4
+
 API RESTful desenvolvida em ASP.NET Core com Entity Framework Core e PostgreSQL, voltada para o gerenciamento de situações de emergência com sensores, alertas e localização de dispositivos.
 
  Tecnologias Utilizadas
@@ -79,6 +82,8 @@ dotnet run --project EmergenciaAPI
 - [x] Relacionamentos 1:N
 - [x] Documentação Swagger
 - [x] Migrations aplicadas
+
+
 
  Licença
 
