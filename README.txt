@@ -39,7 +39,7 @@ EmergenciaAPI/
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/SEU_USUARIO/EmergenciaAPI.git
+git clone https://github.com/Guusthy/EmergenciaAPI.git
 cd EmergenciaAPI
 ```
 
